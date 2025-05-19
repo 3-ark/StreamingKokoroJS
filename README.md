@@ -1,7 +1,7 @@
 # Streaming-KokoroJS
 
 ## About
-Unlimited text-to-speech using [Kokoro-JS](https://github.com/hexgrad/kokoro), 100% local, 100% open source
+Unlimited text-to-speech using [Kokoro-JS](https://github.com/hexgrad/kokoro), 100% local, 100% open source https://glitch.com/edit/#!/streaming-kokoro?path=README.md%3A1%3A0
 
 ## Online Demo (that does not send any user text data to any server.)
 [https://rhulha.github.io/StreamingKokoroJS/](https://rhulha.github.io/StreamingKokoroJS/)
